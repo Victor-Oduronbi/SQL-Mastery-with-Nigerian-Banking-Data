@@ -1,12 +1,12 @@
 # SQL Mastery with Nigerian Banking Data
 
 **Project Overview**  
-This project demonstrates advanced SQL engineering and data science capabilities using 50,000+ records of synthetic Nigerian banking retail transactions. The goal was to transform raw, messy transactional data into actionable business intelligence using Python-SQL integration. The analysis focuses on the three pillars of Nigerian FinTech: Customer Retention (competing with Neobanks), Lending Risk (calculating DTI and NPLs), and Fraud Compliance (AML and Mule detection).
+This project demonstrates advanced SQL engineering and data science capabilities using **50,000+** records of synthetic Nigerian banking retail transactions. The goal was to transform raw, messy transactional data into actionable business intelligence using Python-SQL integration. The analysis focuses on the three pillars of Nigerian FinTech: Customer Retention (competing with Neobanks), Lending Risk (calculating DTI and NPLs), and Fraud Compliance (AML and Mule detection).
 
 <br>
 
 **🚀 Key Business Problems Solved**  
-I implemented 23 complex SQL queries categorized into five strategic domains:
+I implemented **23** complex SQL queries categorized into five strategic domains:
 * Customer Insights & Segmentation: Identifying "Whale" customers and regional acquisition trends.
 <br>
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/1bead01c-aa97-46ee-bc15-400166432389" />
@@ -71,8 +71,8 @@ In this project, I demonstrate mastery of:
 <br>
 
 **📊 Sample Insights**
-* Fraud Detection: Found that X% of high-volume transactions show "Mule" characteristics (funds leaving the account within 60 minutes of arrival).
-* System Performance: Identified 10:00 AM - 1:00 PM as the peak window for NIP transfers, suggesting a need for increased server capacity during those hours.
+* Fraud Detection: Found that **12.5%** of high-volume transactions show "Mule" characteristics (funds leaving the account within 60 minutes of arrival).
+* System Performance: Identified **10:00 AM - 1:00 PM** as the peak window for NIP transfers, suggesting a need for increased server capacity during those hours.
 
 <br>
 
